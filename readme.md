@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on my weddings landing page with rsvp
+🔭 I’m currently working on my wedding's landing page with rsvp
 🌱 I’m currently learning **React JS, Node Js, Express**
 📫 How to reach me **judan.pauljohn@gmail.com**
 
