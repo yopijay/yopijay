@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on my Generic Inventory system
+🔭 I’m currently working on my weddings landing page with rsvp
 🌱 I’m currently learning **React JS, Node Js, Express**
 📫 How to reach me **judan.pauljohn@gmail.com**
 
