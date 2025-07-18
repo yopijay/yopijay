@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on my wedding's landing page with rsvp
-🌱 I’m currently learning **React JS, Node Js, Express**
-📫 How to reach me **judan.pauljohn@gmail.com**
+🌱 I’m currently learning **React JS, Node Js, Express, Typescript, Flutter**
+📫 How to reach me **pijay.freelance@gmail.com**
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yopijay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kuyapijay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-john-judan-0060a41b9) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/flipmusicc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yo.pijay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kuyapijay) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCM4ifLJVKiPFNeh9AWrNUcA)
